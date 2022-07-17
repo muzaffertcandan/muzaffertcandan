@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target=”_blank” />
   </a>
 </div>
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=muzaffertcandan&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **muzaffertcandan/muzaffertcandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
