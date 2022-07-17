@@ -31,6 +31,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
