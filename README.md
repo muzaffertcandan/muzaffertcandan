@@ -35,8 +35,14 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :writing_hand: Projects :
 
+<ul>
+  <li><h4><a href="https://github.com/muzaffertcandan/store-project">Responsive Sneaker Store</a> - <a href="https://store-project-delta.vercel.app">Live Demo</a></h4></li>
+  <li><h4><a href="https://github.com/muzaffertcandan/first_landing_page">Responsive Landing Page</a> - <a href="https://first-project-git-main-muzaffertcandan.vercel.app/">Live Demo</a></h4></li>
+  <li><h4><a href="https://github.com/muzaffertcandan/Medium-clone">Medium Clone</a> - <a href="https://medium-clone-lilac-five.vercel.app/">Live Demo</a></h4></li>
+  <li><h4><a href="https://github.com/muzaffertcandan/e-commerance">E-commerce website</a> - <a href="https://muzaffer-e-commerce.vercel.app/">Live Demo</a></h4></li>
+</ul>
 
-  <h3><a href="https://github.com/muzaffertcandan/store-project">Responsive Sneaker Store</a></h3>
+  
   
 
 ---
