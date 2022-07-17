@@ -20,7 +20,25 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muzaffertcandan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffertcandan/)
-- 😄 Pronouns: He/Him
+
+
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muzaffertcandan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffertcandan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Projects :
+
+
+  <h3><a href="https://github.com/muzaffertcandan/store-project">Responsive Sneaker Store</a></h3>
+  
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -31,14 +49,6 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muzaffertcandan&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffertcandan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
