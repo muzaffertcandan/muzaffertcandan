@@ -12,7 +12,7 @@
 </h1>
 
 ### 👨‍💻 About Me :
-I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
 
 - :seedling: Exploring building web applications with Blazor.
