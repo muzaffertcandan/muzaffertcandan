@@ -17,8 +17,6 @@ I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Exploring building web applications with Blazor.
 
-- :zap: In my free time, I read tech articles.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muzaffertcandan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffertcandan/)
 
 
