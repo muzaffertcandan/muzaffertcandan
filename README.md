@@ -55,8 +55,6 @@ I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcM
    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="Threejs" width="40" height="40"/>&nbsp;
 </div>
 
-
-
 <!--
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=muzaffertcandan&style=flat-square&color=blue" alt=""/>
