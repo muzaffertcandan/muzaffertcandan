@@ -15,7 +15,7 @@
 I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
 
-- :seedling: Exploring building web applications with Blazor.
+- :seedling: Exploring Three.js and WebGL.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muzaffertcandan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffertcandan/)
 
